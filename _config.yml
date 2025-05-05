@@ -15,7 +15,7 @@ back_to_top_text: "Back to top"
 #bottom of page
 footer_content: "Language acquisition across cultures team, LSCP. DEC ENS Paris, PSL university"
 
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
+#kramdown:
+#  syntax_highlighter_opts:
+#    block:
+#      line_numbers: true
