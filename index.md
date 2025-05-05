@@ -6,6 +6,13 @@ description: "This book is here to help you understand how to work in the lab"
 permalink: /
 ---
 
+# code block
+
+```bash
+ps
+ls -lLR
+```
+
 # Ethics and confidential data
 
 It is important for us to make sure collaborators of the team understand clearly the implications of working on personal and confidential data. We ask that you read and answer those forms **carefully**, your answers will be used to assess your understanding of said implications and decide on granting you access to the data or not.
